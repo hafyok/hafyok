@@ -5,18 +5,19 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=hafyok&style=flat-square&color=blue" alt=""/>
 
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Аггей (да, именно так)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aggey
 =====================================================================================================================================
 
-Android-developer
------------------
+About me:
 
-Учусь на последнем курсе в РТУ МИРЭА, направление - Системная и программная инженерия. В процессе обучения был курс по мобильной разработке и с тех пор увлёкся ей и хочу развиваться в этой сфере. Также обучился big data и data science, ООП, архитектурным решениям, принципам SOLID и структурам алгоритмов.
+
+Hi, I am Android developer, and I graduated from RTU MIREA
 
 * ✉️  You can contact me at [hafyok5777@gmail.com](mailto:hafyok5777@gmail.com)
-* 🚀  I'm currently working on [DiplomTest](http://github.com/hafyok/DiplomTest)
+* 🚀  I'm currently working on [ForSkills](http://github.com/hafyok/ForSkills)
+* :zap: In my free time, I solve problems on Leetcode and read tech articles.
 * 🧠  I'm learning Dagger, Coroutines
-
+-----------------
 ### Технологии
 
 
@@ -34,11 +35,11 @@ Android-developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 
+-----------------
+### 🔥 My stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=hafyok&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafyok)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**hafyok/hafyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
