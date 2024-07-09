@@ -39,6 +39,8 @@ Hi, I am Android developer, and I graduated from RTU MIREA
 ### 🔥 My stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=hafyok&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafyok)](https://github.com/anuraghazra/github-readme-stats)
+---
+![Leetcode Stats](https://leetcard.jacoblin.cool/hafyok5777)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
