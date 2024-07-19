@@ -17,7 +17,7 @@ About me:
 Hi, I am Android developer, and I graduated from RTU MIREA
 
 * ✉️  You can contact me at [hafyok5777@gmail.com](mailto:hafyok5777@gmail.com)
-* 🚀  I'm currently working on [ForSkills](http://github.com/hafyok/Currency)
+* 🚀  I'm currently working on [Currency](http://github.com/hafyok/Currency)
 * :zap: In my free time, I solve problems on Leetcode and read tech articles.
 * 🧠  I'm learning Dagger, Coroutines
 -----------------
