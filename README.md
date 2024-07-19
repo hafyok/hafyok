@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="t.me/hafyok">
+  <a href="https://t.me/hafyok">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/aggey-khafizov/">
