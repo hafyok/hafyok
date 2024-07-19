@@ -1,6 +1,9 @@
 <div id="badges">
-  <a href="your-telegram-URL">
+  <a href="t.me/hafyok">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aggey-khafizov/">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Telefram Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=hafyok&style=flat-square&color=blue" alt=""/>
@@ -14,7 +17,7 @@ About me:
 Hi, I am Android developer, and I graduated from RTU MIREA
 
 * ✉️  You can contact me at [hafyok5777@gmail.com](mailto:hafyok5777@gmail.com)
-* 🚀  I'm currently working on [ForSkills](http://github.com/hafyok/ForSkills)
+* 🚀  I'm currently working on [ForSkills](http://github.com/hafyok/Currency)
 * :zap: In my free time, I solve problems on Leetcode and read tech articles.
 * 🧠  I'm learning Dagger, Coroutines
 -----------------
