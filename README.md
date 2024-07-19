@@ -20,6 +20,13 @@ Hi, I am Android developer, and I graduated from RTU MIREA
 * 🚀  I'm currently working on [Currency](http://github.com/hafyok/Currency)
 * :zap: In my free time, I solve problems on Leetcode and read tech articles.
 * 🧠  I'm learning Dagger, Coroutines
+  
+I have several projects to demonstrate. For example, a client-server application for reviewing games - [ServerGames](https://github.com/hafyok/ServerGames).
+
+There are also weather apps - [WeatherApp](https://github.com/hafyok/WeatherAppComposeY).
+
+One of the projects is a test task for VK - [VKTest](https://github.com/hafyok/VKtest).
+
 -----------------
 ### Технологии
 
