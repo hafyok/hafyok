@@ -19,7 +19,7 @@ Hi, I am Android developer, and I graduated from RTU MIREA
 * ✉️  You can contact me at [hafyok5777@gmail.com](mailto:hafyok5777@gmail.com)
 * 🚀  I'm currently working on [CellularFilling](http://github.com/hafyok/CellularFilling)
 * :zap: In my free time, I solve problems on Leetcode and read tech articles.
-* 🧠  I'm learning Dagger, Coroutines
+* 🧠  I'm learning Dagger, Flow
   
 I have several projects to demonstrate. For example, a client-server application for reviewing games - [ServerGames](https://github.com/hafyok/ServerGames).
 
