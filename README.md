@@ -25,7 +25,7 @@ I have several projects to demonstrate. For example, a client-server application
 
 There are also weather apps - [WeatherApp](https://github.com/hafyok/WeatherAppComposeY).
 
-One of the projects is a test task for VK - [VKTest](https://github.com/hafyok/VKtest).
+A couple of the projects is a test tasks for VK - [VKTest](https://github.com/hafyok/VKtest), [Currency](https://github.com/hafyok/Currency).
 
 -----------------
 ### Технологии
