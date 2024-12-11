@@ -17,7 +17,7 @@ About me:
 Hi, I am Android developer, and I graduated from RTU MIREA
 
 * ✉️  You can contact me at [hafyok5777@gmail.com](mailto:hafyok5777@gmail.com)
-* 🚀  I'm currently working on [IdeaPlatform](https://github.com/hafyok/IdeaPlatform)
+* 🚀  I'm currently working on [MedApp](https://github.com/hafyok/MedApp)
 * :zap: In my free time, I solve problems on Leetcode and read tech articles.
 * 🧠  I'm learning Hilt, Flow
   
